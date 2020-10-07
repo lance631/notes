@@ -1,1 +1,1 @@
-# notes.github.io
+# notes

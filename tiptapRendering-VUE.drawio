@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T06:25:41.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pFj2K5FhfqsITImUp4qt" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T06:26:01.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4iMboVfe2YM-4HXu7UIL" version="20.8.16" type="github">
   <diagram name="第 1 页" id="Ej6Xu8YYIHDuc56v-rKU">
     <mxGraphModel dx="824" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QLVLLkYk1Rk1FqDWxppT-1" value="tiptap迁移前端工程 vue package" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=bottom;arcSize=4;" parent="1" vertex="1">
-          <mxGeometry x="200" y="270" width="460" height="265" as="geometry" />
+          <mxGeometry x="170" y="270" width="490" height="265" as="geometry" />
         </mxCell>
         <mxCell id="QLVLLkYk1Rk1FqDWxppT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QLVLLkYk1Rk1FqDWxppT-3" target="QLVLLkYk1Rk1FqDWxppT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="1Zusz6Eb5MTFPOyElNCq-1" value="指标、图表&lt;br&gt;动态化数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="240" y="330" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1Zusz6Eb5MTFPOyElNCq-4" value="静态资源渲染" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="1Zusz6Eb5MTFPOyElNCq-4" value="动态内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="1Zusz6Eb5MTFPOyElNCq-3" value="修订、批注内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;arcSize=11;" vertex="1" parent="1">

@@ -1,23 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T03:51:03.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CMgtZoCm2vuVYKhojrHd" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T06:15:47.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tfJWT7gcVXNbHwV4iTpZ" version="20.8.16" type="github">
   <diagram name="第 1 页" id="cxOlcbB1qj-5qwUDUt3x">
     <mxGraphModel dx="824" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0MEXVl722VAajQtSkiim-1" value="tiptap迁移后端工程 java jar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=bottom;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="190" y="190" width="400" height="265" as="geometry" />
+        <mxCell id="0MEXVl722VAajQtSkiim-1" value="tiptap迁移后端工程 java jar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=bottom;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="190" y="190" width="460" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="0MEXVl722VAajQtSkiim-2" value="标准、规范" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="120" height="200" as="geometry" />
+        <mxCell id="0MEXVl722VAajQtSkiim-2" value="标准、规范" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=6;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="220" y="210" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0MEXVl722VAajQtSkiim-3" value="静态资源替换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="0MEXVl722VAajQtSkiim-3" value="静态资源替换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="220" y="320" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0MEXVl722VAajQtSkiim-4" value="批注、修订" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="0MEXVl722VAajQtSkiim-4" value="批注、修订" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="510" y="210" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="0MEXVl722VAajQtSkiim-5" value="全局研报唯一编号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="120" height="30" as="geometry" />
+        <mxCell id="0MEXVl722VAajQtSkiim-5" value="全局研报唯一编号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="230" y="234" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-1" value="修订、批注版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-4" value="图片地址&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-5" value="研报地址" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-6" value="审批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-7" value="研报保存的字段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-8" value="修订、批注增删改查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-9" value="状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-10" value="在线、邮件通知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-2" value="人员信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T06:15:47.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tfJWT7gcVXNbHwV4iTpZ" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T06:40:24.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qtLCw2M5Swl30Eh6KcBP" version="20.8.16" type="github">
   <diagram name="第 1 页" id="cxOlcbB1qj-5qwUDUt3x">
     <mxGraphModel dx="824" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="220" y="320" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0MEXVl722VAajQtSkiim-4" value="批注、修订" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="510" y="210" width="120" height="220" as="geometry" />
+          <mxGeometry x="510" y="210" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="0MEXVl722VAajQtSkiim-5" value="全局研报唯一编号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="230" y="234" width="120" height="30" as="geometry" />
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="mCFDCRky8Mi1W4elYaA0-2" value="人员信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="370" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-12" value="EAIP传输" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-13" value="指标算子库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

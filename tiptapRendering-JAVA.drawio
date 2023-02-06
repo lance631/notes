@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T11:23:30.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UQaFX-BlsTw4_ravXPMW" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T11:30:10.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MkZ04dtujZjjPpMBCwa8" version="20.8.16" type="github">
   <diagram name="第 1 页" id="cxOlcbB1qj-5qwUDUt3x">
     <mxGraphModel dx="824" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="70" y="170" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0MEXVl722VAajQtSkiim-4" value="批注、修订" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="230" y="60" width="120" height="120" as="geometry" />
+          <mxGeometry x="230" y="60" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0MEXVl722VAajQtSkiim-5" value="全局研报唯一编号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="80" y="84" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mCFDCRky8Mi1W4elYaA0-1" value="修订、批注版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="120" height="30" as="geometry" />
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-1" value="修订、批注版本控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="240" y="125" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mCFDCRky8Mi1W4elYaA0-4" value="图片地址&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="120" height="30" as="geometry" />
@@ -41,15 +41,15 @@
           <mxGeometry x="520" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mCFDCRky8Mi1W4elYaA0-13" value="研报编辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="230" y="190" width="120" height="110" as="geometry" />
+          <mxGeometry x="230" y="170" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mCFDCRky8Mi1W4elYaA0-14" value="研报增删改查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="240" y="215" width="120" height="30" as="geometry" />
+          <mxGeometry x="240" y="193" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mCFDCRky8Mi1W4elYaA0-18" value="生产中心数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mCFDCRky8Mi1W4elYaA0-19" value="&lt;br&gt;1. 生产中心提供接口、存储标准&lt;br&gt;&lt;br&gt;2.管理中心通过EAIP传送获取研报相关数据&lt;br&gt;&lt;br&gt;3.数据存储在生产中心" style="shape=card;whiteSpace=wrap;html=1;dashed=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="mCFDCRky8Mi1W4elYaA0-19" value="&lt;br&gt;1. 生产中心提供研报的接口、存储标准&lt;br&gt;&lt;br&gt;2.管理中心、生产中心通过EAIP传送获取研报相关数据&lt;br&gt;&lt;br&gt;3.研报相关数据存储在生产中心" style="shape=card;whiteSpace=wrap;html=1;dashed=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="630" y="270" width="130" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mCFDCRky8Mi1W4elYaA0-20" value="管理中心" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
@@ -71,7 +71,7 @@
           <mxGeometry x="370" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mCFDCRky8Mi1W4elYaA0-29" value="研报的版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="240" y="255" width="120" height="30" as="geometry" />
+          <mxGeometry x="240" y="228" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

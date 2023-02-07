@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T08:25:19.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7Qp8fxArcvKYDWLFndoW" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T08:26:23.661Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="S0Dw-z_uHx71VAsyeA19" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="824" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,11 +46,11 @@
         <mxCell id="DzplGdxmA9fShSmXFP6H-28" value="APP平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="735.5" y="70" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="l_-BqYWKeUryHRCesAHR-0" value="&lt;br&gt;&lt;br&gt;&amp;nbsp;生产中心前端提供：&lt;br&gt;1. tiptap迁移package以来包&lt;br&gt;&lt;br&gt;2. 说明文档，包含集成技术栈要求、版本支持、集成步骤等&lt;br&gt;&lt;br&gt;生产中心后端提供：&lt;br&gt;1.后端提供文档包含研报编辑、修订、存储标准等" style="shape=card;whiteSpace=wrap;html=1;dashed=1;size=20;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="653" y="260" width="188.5" height="230" as="geometry" />
+        <mxCell id="l_-BqYWKeUryHRCesAHR-0" value="&lt;br&gt;&lt;br&gt;&amp;nbsp;生产中心前端提供：&lt;br&gt;1. tiptap迁移VUE安装包&lt;br&gt;&lt;br&gt;2. 说明文档，包含集成技术栈要求、版本支持、集成步骤等&lt;br&gt;&lt;br&gt;生产中心后端提供：&lt;br&gt;1.后端提供文档包含研报编辑、修订、存储标准等" style="shape=card;whiteSpace=wrap;html=1;dashed=1;size=20;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="648.71" y="250" width="188.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="l_-BqYWKeUryHRCesAHR-1" value="生产中心&lt;br&gt;研报编辑、修订、批注&lt;br&gt;存储标准" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="456.25" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="515" y="410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l_-BqYWKeUryHRCesAHR-27" value="Jar包" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;fillColor=#fa6800;fontColor=#ffffff;strokeColor=#C73500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="72.5" y="270" width="67.5" height="40" as="geometry" />

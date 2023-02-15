@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T12:53:32.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="wWJzxi_Z4vcItvFXWTTS" type="github"><diagram name="第 1 页" id="4eC4Y5nyNUY1-vNa9eZq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-15T13:18:24.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Bssg84MJj9EFiazV42e_" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="4eC4Y5nyNUY1-vNa9eZq">
+    <mxGraphModel dx="779" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRpasaBn-W2yiy2G8w8B-13" target="RRpasaBn-W2yiy2G8w8B-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-16" value="git" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RRpasaBn-W2yiy2G8w8B-14">
+          <mxGeometry x="0.0182" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-1" value="脚手架 vuecli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="60" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-2" value="vue2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-3" value="router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-4" value="vuex" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="330" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-6" value="子模块（subMoudel）" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-7" value="km-chart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-8" value="km-components" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-9" value="km-utils" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-11" value="Components(cmpts)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-12" value="axios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-17" value="canvas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-18" value="tiptap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-19" value="moment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-20" value="moment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-21" value="Dialog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-22" value="Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-23" value="Select" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRpasaBn-W2yiy2G8w8B-24" value="... ..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

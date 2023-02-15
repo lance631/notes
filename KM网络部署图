@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T12:38:26.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XBInhmfUdWRW8tVpw5a5" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T12:40:03.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8aXVo4s9nIVQn2csNvqC" version="20.8.20" type="github">
   <diagram name="第 1 页" id="akM0LrLxWSWnWpriurQq">
     <mxGraphModel dx="779" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4KdbWlsA1kFgEi3nGVCP-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;kmp-frontend&amp;nbsp;&lt;br&gt;前端服务&lt;br&gt;memory：1024Mi&lt;br&gt;CPU:2000m&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="150" height="80" as="geometry" />
+          <mxGeometry x="40" y="170" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4KdbWlsA1kFgEi3nGVCP-2" value="admin&amp;nbsp;&lt;br&gt;后端系统管理服务&lt;br&gt;memory：1024Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;CPU:1000m&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="170" height="80" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry x="440" y="410" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4KdbWlsA1kFgEi3nGVCP-6" value="nacos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="240" width="174" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4KdbWlsA1kFgEi3nGVCP-7" value="xxljob" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="240" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4KdbWlsA1kFgEi3nGVCP-8" value="template util" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="555" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4KdbWlsA1kFgEi3nGVCP-9" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="120" height="60" as="geometry" />
@@ -38,7 +38,10 @@
           <mxGeometry x="590" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4KdbWlsA1kFgEi3nGVCP-12" value="minio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-15" value="gateway&lt;br&gt;后端网关服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1000m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,44 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T14:17:39.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AKJH6-dbsRVBY_cXAiI2" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T14:50:47.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Nd5oCCxVSrcxG1R3DjqH" version="20.8.20" type="github">
   <diagram name="第 1 页" id="tVi3vOuZj2pm0KmcaILq">
     <mxGraphModel dx="919" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EyZmng7lGOkGev_j6lMg-1" value="StarterKit" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="50" width="290" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="EyZmng7lGOkGev_j6lMg-2" value="Extension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="80" width="276" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EyZmng7lGOkGev_j6lMg-3" value="tiptap/core" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="100" y="640" width="940" height="100" as="geometry" />
+        <mxCell id="EyZmng7lGOkGev_j6lMg-3" value="tiptap/core" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;arcSize=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="585" width="940" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-4" value="CommandManager&lt;br&gt;命令管理器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-5" value="Editor&lt;br&gt;编辑区" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="670" width="63" height="60" as="geometry" />
+          <mxGeometry x="237" y="615" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-6" value="ExtensionMaager&lt;br&gt;扩展管理器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="670" width="110" height="60" as="geometry" />
+          <mxGeometry x="310" y="615" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-7" value="Node&lt;br&gt;段落节点" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="430" y="615" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-8" value="Mark&lt;br&gt;样式标记" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="530" y="615" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-9" value="PasteRules&lt;br&gt;粘贴规则" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="630" y="615" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-10" value="InputRules&lt;br&gt;输入规则" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="730" y="615" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-11" value="EventEmitter&lt;br&gt;事件触发器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="830" y="615" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-12" value="keymap&lt;br&gt;快捷键" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="930" y="615" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-13" value="extension" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;arcSize=4;fillStyle=solid;glass=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="940" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-14" value="blockquote&lt;br&gt;引用" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-15" value="bold&lt;br&gt;加粗" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-16" value="bubble-menu&lt;br&gt;弹出标记" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-17" value="bullet-list&lt;br&gt;项目列表" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="512" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-18" value="code&lt;br&gt;插入代码" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-19" value="code block&lt;br&gt;插入代码块" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="776" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-20" value="collaboration&lt;br&gt;协同编辑" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-21" value="collaboration- cursor&lt;br&gt;协同编辑游标" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-22" value="document&lt;br&gt;doc文档结构" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-23" value="dropcursor&lt;br&gt;光标样式" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-24" value="dropcursor&lt;br&gt;光标样式" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-25" value="floating menu&lt;br&gt;空行悬浮光标" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-26" value="gapcursor&lt;br&gt;结尾光标" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="776" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-27" value="hard break&lt;br&gt;强制换行" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-28" value="heading&lt;br&gt;标题" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-29" value="history&lt;br&gt;历史记录" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-30" value="horizontal-rule&lt;br&gt;横线规则" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-31" value="italic&lt;br&gt;斜体" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-32" value="list item&lt;br&gt;列表" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-33" value="ordered list&lt;br&gt;排序列表" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="776" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-34" value="paragraph&lt;br&gt;段落" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-35" value="strike&lt;br&gt;中划线" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-36" value="text&lt;br&gt;文字" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-37" value="starter-kit&lt;br&gt;初始化套件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

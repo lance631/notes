@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T11:32:56.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="y2ePXogFfr72wigJqxSD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T14:17:39.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AKJH6-dbsRVBY_cXAiI2" version="20.8.20" type="github">
   <diagram name="第 1 页" id="tVi3vOuZj2pm0KmcaILq">
-    <mxGraphModel dx="859" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,21 +11,21 @@
           <mxGeometry x="357" y="80" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-3" value="tiptap/core" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="100" y="610" width="940" height="130" as="geometry" />
+          <mxGeometry x="100" y="640" width="940" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EyZmng7lGOkGev_j6lMg-4" value="CommandManager" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EyZmng7lGOkGev_j6lMg-4" value="CommandManager&lt;br&gt;命令管理器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EyZmng7lGOkGev_j6lMg-5" value="Editor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="670" width="83" height="60" as="geometry" />
+        <mxCell id="EyZmng7lGOkGev_j6lMg-5" value="Editor&lt;br&gt;编辑区" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="670" width="63" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EyZmng7lGOkGev_j6lMg-6" value="Extension" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="670" width="90" height="60" as="geometry" />
+        <mxCell id="EyZmng7lGOkGev_j6lMg-6" value="ExtensionMaager&lt;br&gt;扩展管理器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="670" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EyZmng7lGOkGev_j6lMg-7" value="Node" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EyZmng7lGOkGev_j6lMg-7" value="Node&lt;br&gt;段落节点" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="670" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EyZmng7lGOkGev_j6lMg-8" value="Mark" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EyZmng7lGOkGev_j6lMg-8" value="Mark&lt;br&gt;样式标记" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="670" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-9" value="PasteRules&lt;br&gt;粘贴规则" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="EyZmng7lGOkGev_j6lMg-10" value="InputRules&lt;br&gt;输入规则" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="670" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-11" value="EventEmitter&lt;br&gt;事件触发器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="670" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EyZmng7lGOkGev_j6lMg-12" value="keymap&lt;br&gt;快捷键" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="670" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

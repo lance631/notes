@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T01:34:39.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iaDBcMqeJ8YTS3vKTpjM" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T01:35:54.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rysA0WucXkQ8Eg1SFa-h" version="20.8.20" type="github">
   <diagram name="第 1 页" id="7qcPoUZskUtQ_Qu_PB2l">
     <mxGraphModel dx="859" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="230" y="40" width="530" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GyXssf-XClskgfwfj3MJ-2" value="通用业务层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="530" height="220" as="geometry" />
+          <mxGeometry x="230" y="270" width="530" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GyXssf-XClskgfwfj3MJ-3" value="独立于业务的层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="230" y="510" width="530" height="220" as="geometry" />
+          <mxGeometry x="230" y="380" width="530" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GyXssf-XClskgfwfj3MJ-4" value="研究分析" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="240" y="70" width="510" height="80" as="geometry" />
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="GyXssf-XClskgfwfj3MJ-14" value="产品管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="190" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GyXssf-XClskgfwfj3MJ-15" value="服务管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GyXssf-XClskgfwfj3MJ-16" value="数据迁移" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="295" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

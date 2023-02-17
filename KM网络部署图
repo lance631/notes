@@ -1,47 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T04:04:11.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Sp4ObzkTQcKdkTt3yvBN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T01:18:18.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="23dCjbAh5wgWuRF0VdSv" version="20.8.20" type="github">
   <diagram name="第 1 页" id="akM0LrLxWSWnWpriurQq">
-    <mxGraphModel dx="859" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;kmp-frontend&amp;nbsp;&lt;br&gt;前端服务&lt;br&gt;memory：1024Mi&lt;br&gt;CPU:2000m&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;kmp-frontend&amp;nbsp;&lt;br&gt;前端服务&lt;br&gt;memory：1024Mi&lt;br&gt;CPU:2000m&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="170" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-2" value="admin&amp;nbsp;&lt;br&gt;后端系统管理服务&lt;br&gt;memory：1024Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;CPU:1000m&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-2" value="admin&amp;nbsp;&lt;br&gt;后端系统管理服务&lt;br&gt;memory：1024Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;CPU:1000m&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="320" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-3" value="report&lt;br&gt;后端智能研报服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1000m" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-3" value="report&lt;br&gt;后端智能研报服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1000m" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="440" y="320" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-4" value="indicator&lt;br&gt;后端指标中心服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1500m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-4" value="indicator&lt;br&gt;后端指标中心服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1500m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="410" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-5" value="graph&lt;br&gt;后端研究框架服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1000m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-5" value="graph&lt;br&gt;后端研究框架服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1000m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="410" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-6" value="nacos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-6" value="nacos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="240" width="174" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-7" value="xxljob&lt;br&gt;后端任务调度服务&lt;br&gt;memory：512Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:512m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-7" value="xxljob&lt;br&gt;后端任务调度服务&lt;br&gt;memory：512Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:512m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="240" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-8" value="template util&lt;br&gt;后端模板解析服务&lt;br&gt;memory：512Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:512m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="510" width="170" height="75" as="geometry" />
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-8" value="指标服务节点" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="79" y="520" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-9" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-9" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-10" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-10" value="ETL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-11" value="elasticsearch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-11" value="elasticsearch" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-12" value="minio&lt;br&gt;对象存储代理服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:2000m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-12" value="minio&lt;br&gt;对象存储代理服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:2000m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4KdbWlsA1kFgEi3nGVCP-15" value="gateway&lt;br&gt;后端网关服务&lt;br&gt;memory：2048Mi&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;CPU:1000m" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="150" height="80" as="geometry" />
+        <mxCell id="4KdbWlsA1kFgEi3nGVCP-15" value="系统管理服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="274" y="520" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6CSq0StTDl6-XvanMM-y-1" value="数据节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6CSq0StTDl6-XvanMM-y-2" value="管理节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

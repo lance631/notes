@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T02:16:42.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Op8ME2i-aYEjs0Nhf61S" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T02:34:38.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oJEo-7acwce3rfvElmKg" version="21.7.4" type="github">
   <diagram name="第 1 页" id="4eC4Y5nyNUY1-vNa9eZq">
-    <mxGraphModel dx="866" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1693" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cjf3HgqTAm4N_7wbF4_n-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="40" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cjf3HgqTAm4N_7wbF4_n-5" value="&lt;h1 style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;1. 前端访问受保护资源header携带系统ticket token和全局登录状态cookie；&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="40" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cjf3HgqTAm4N_7wbF4_n-7" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cjf3HgqTAm4N_7wbF4_n-8" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cjf3HgqTAm4N_7wbF4_n-9" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cjf3HgqTAm4N_7wbF4_n-10" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T03:43:48.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OHLGEnR1sd_Wa5Z0nD4n" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T03:56:02.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="O5ovExBrIRgWFTqgo7lY" version="22.1.4" type="github">
   <diagram name="第 1 页" id="4eC4Y5nyNUY1-vNa9eZq">
     <mxGraphModel dx="1905" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="leE8Cb88VZXqTR05hnTv-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="655" y="320" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="leE8Cb88VZXqTR05hnTv-25" value="访问SSO,无SSO凭证&amp;nbsp; https://sso.com/login?redirect=a.com/home" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="leE8Cb88VZXqTR05hnTv-25" value="访问SSO,无SSO凭证&amp;nbsp; https://sso.com/login" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-25" y="350" as="sourcePoint" />
             <mxPoint x="650" y="350" as="targetPoint" />
@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leE8Cb88VZXqTR05hnTv-36" value="localStorage存储&lt;br&gt;子系统Ticket&lt;br&gt;Refresh Token" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=11;" edge="1" parent="1" source="leE8Cb88VZXqTR05hnTv-28">
+        <mxCell id="leE8Cb88VZXqTR05hnTv-36" value="localStorage存储&lt;br&gt;子系统Ticket&lt;br&gt;refresh Token" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=11;" edge="1" parent="1" source="leE8Cb88VZXqTR05hnTv-28">
           <mxGeometry x="-0.0566" relative="1" as="geometry">
             <mxPoint x="-35" y="500" as="sourcePoint" />
             <Array as="points">
@@ -193,7 +193,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leE8Cb88VZXqTR05hnTv-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="leE8Cb88VZXqTR05hnTv-39">
+        <mxCell id="leE8Cb88VZXqTR05hnTv-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leE8Cb88VZXqTR05hnTv-55" target="leE8Cb88VZXqTR05hnTv-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="659" y="880" as="sourcePoint" />
             <mxPoint x="660" y="500" as="targetPoint" />
@@ -263,7 +263,7 @@
         <mxCell id="leE8Cb88VZXqTR05hnTv-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="455" y="640" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="leE8Cb88VZXqTR05hnTv-51" value="访问https://b.example.com/home" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=11;" edge="1" parent="1" target="leE8Cb88VZXqTR05hnTv-49">
+        <mxCell id="leE8Cb88VZXqTR05hnTv-51" value="访问https://b.example.com/home,子系统ticket,set-Cookie:凭证" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=11;" edge="1" parent="1" target="leE8Cb88VZXqTR05hnTv-49">
           <mxGeometry x="-0.0049" width="80" relative="1" as="geometry">
             <mxPoint x="-25" y="650" as="sourcePoint" />
             <mxPoint x="235" y="650" as="targetPoint" />
@@ -277,9 +277,11 @@
           <mxGeometry x="-0.0601" relative="1" as="geometry">
             <mxPoint x="465" y="650" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="495" y="680" />
+              <mxPoint x="495" y="650" />
+              <mxPoint x="495" y="690" />
+              <mxPoint x="470" y="690" />
             </Array>
-            <mxPoint x="470" y="680" as="targetPoint" />
+            <mxPoint x="470" y="690" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -287,6 +289,38 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="235" y="310" as="sourcePoint" />
             <mxPoint x="-25" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leE8Cb88VZXqTR05hnTv-54" value="https://sso.example.com/login?redirect=b.example.com/home" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="leE8Cb88VZXqTR05hnTv-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="690" as="sourcePoint" />
+            <mxPoint x="195" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leE8Cb88VZXqTR05hnTv-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="leE8Cb88VZXqTR05hnTv-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659" y="880" as="sourcePoint" />
+            <mxPoint x="660" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leE8Cb88VZXqTR05hnTv-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="655" y="700" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="leE8Cb88VZXqTR05hnTv-57" value="ticket&lt;br&gt;校验通过" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=11;" edge="1" parent="1">
+          <mxGeometry x="-0.0601" relative="1" as="geometry">
+            <mxPoint x="665" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="695" y="750" />
+            </Array>
+            <mxPoint x="670" y="750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leE8Cb88VZXqTR05hnTv-58" value="https://sso.com/login?redirect=b.example.com/home" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0004" width="80" relative="1" as="geometry">
+            <mxPoint x="-25" y="720" as="sourcePoint" />
+            <mxPoint x="650" y="720" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T05:52:36.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="477lMWIrQy4UejYptgZr" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T06:14:04.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w7S6CDqPNhVQ3Uks-ZQY" version="22.1.4" type="github">
   <diagram name="第 1 页" id="4eC4Y5nyNUY1-vNa9eZq">
     <mxGraphModel dx="2354" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leE8Cb88VZXqTR05hnTv-35" value="返回子系统Ticket、SSO凭证、Sefresh Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="leE8Cb88VZXqTR05hnTv-35" value="返回子系统，Cookie携带Ticket、SSO凭证、Refresh Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="655" y="459.87" as="sourcePoint" />
             <mxPoint x="-25" y="459.87" as="targetPoint" />
@@ -183,7 +183,7 @@
         <mxCell id="leE8Cb88VZXqTR05hnTv-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="235" y="520" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="leE8Cb88VZXqTR05hnTv-38" value="业务数据请求Header带ticket" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=11;" edge="1" parent="1">
+        <mxCell id="leE8Cb88VZXqTR05hnTv-38" value="业务数据请求Header带Ticket" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry x="-0.0045" width="80" relative="1" as="geometry">
             <mxPoint x="-25" y="520" as="sourcePoint" />
             <mxPoint x="235" y="520" as="targetPoint" />
@@ -326,7 +326,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leE8Cb88VZXqTR05hnTv-59" value="返回子系统Ticket、SSO凭证、Refresh Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="leE8Cb88VZXqTR05hnTv-46">
+        <mxCell id="leE8Cb88VZXqTR05hnTv-59" value="返回子系统，Cookie携带Ticket、SSO凭证、Refresh Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="leE8Cb88VZXqTR05hnTv-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="655" y="750" as="sourcePoint" />
             <mxPoint x="480" y="750" as="targetPoint" />

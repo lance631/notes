@@ -1,17 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T11:13:20.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q7Umqy5WbAYvIhJddaWX" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T11:31:57.440Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-8mt4CqUnKB7wvBO_was" version="24.7.1" type="github">
   <diagram name="第 1 页" id="32VtgehK86iqjOPbHDv2">
-    <mxGraphModel dx="940" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tr_o8dyt-i28HcZZw-eC-1" value="openDoc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tr_o8dyt-i28HcZZw-eC-2" value="selectDoc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="70" height="40" as="geometry" />
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-7" value="pinia&lt;div style=&quot;text-align: start;&quot;&gt;document/instances/&lt;span style=&quot;background-color: initial;&quot;&gt;snapshot&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="166" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tr_o8dyt-i28HcZZw-eC-3" value="createDoc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="70" height="40" as="geometry" />
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-8" value="pinia&lt;div style=&quot;text-align: start;&quot;&gt;document/LSV&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="tr_o8dyt-i28HcZZw-eC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="340" as="sourcePoint" />
+            <mxPoint x="280" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-12" value="createDoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tr_o8dyt-i28HcZZw-eC-10">
+          <mxGeometry x="-0.1538" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="310" as="sourcePoint" />
+            <mxPoint x="280" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-13" value="selectDoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tr_o8dyt-i28HcZZw-eC-11">
+          <mxGeometry x="-0.2154" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tr_o8dyt-i28HcZZw-eC-7" target="tr_o8dyt-i28HcZZw-eC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="340" as="sourcePoint" />
+            <mxPoint x="400" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-15" value="submit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tr_o8dyt-i28HcZZw-eC-14">
+          <mxGeometry x="-0.1081" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-16" value="diffSnapshotLSV" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tr_o8dyt-i28HcZZw-eC-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tr_o8dyt-i28HcZZw-eC-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="sourcePoint" />
+            <mxPoint x="400" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
